@@ -1,7 +1,6 @@
 # What is this?
 
-I thought that this repository synchronizes [the application on Heroku](http://sync-github.herokuapp.com) automatically.
+This *was* an experimental app for Heroku and GitHub sync feature.
 
-But actually, this repository is used to see commit diffs from web console in Heroku.
-
-ref. [Link Heroku app to Github repo. For what? - Stack Overflow](http://stackoverflow.com/questions/12708716/link-heroku-app-to-github-repo-for-what)
+It had been deployed on [http://sync-github.herokuapp.com/](http://sync-github.herokuapp.com/)
+but it has been removed now because [Heroku free plan ends](https://blog.heroku.com/next-chapter).
